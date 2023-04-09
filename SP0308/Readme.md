@@ -61,14 +61,14 @@ SP03\_\_ is an amazing team built by the efforts of its team members and the sup
 
 ### Team
 
-Person1<br>
-Person2<br>
-Person3<br>
-Person4<br>
+Ankit<br>
+Anuradha chaturvedi<br>
+Akash meghwal<br>
+devander nagar<br>
 
 ### Mentor
 
-Mentor1
+Divya chopra
 
 ## Weekly/Monthly Logs
 
@@ -83,30 +83,30 @@ Date:
 
   Team Member1:
 
-    What have you done in the week:
-    Blockers/Challenegs you have faced:
+    What have you done in the week:pyhton basic, libraries,ML basics, algorithms ,code, working on project
+    Blockers/Challenegs you have faced:installation
 
   Team Member2:
 
-    What have you done in the week:
-    Blockers/Challenegs you have faced:
+    What have you done in the week:python basics,Libraries, ML Basics,algorithms,code,working on project
+    Blockers/Challenegs you have faced: syntax errors , installations
 
   Team Member3:
 
-    What have you done in the week:
-    Blockers/Challenegs you have faced:
+    What have you done in the week:pyhton basics, libraries, MLbasics, algorithms , website code
+    Blockers/Challenegs you have faced: errors and installations 
 
   Team Member4:
 
-    What have you done in the week:
-    Blockers/Challenegs you have faced:
+    What have you done in the week:pyhton basics , ML, algortihms, working on project 
+    Blockers/Challenegs you have faced: deployment 
 ```
 
 ### Logs
 
-<!-- ## Resources -->
+<!-- ## Resources --> sheet and links provided by the mentor for the learning phase 
 
-<!-- ## Roadmap -->
+<!-- ## Roadmap --> learning , implementing, decided the project, processing and then implementation, deployment
 
 ## Project
 
@@ -124,7 +124,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 ## Contact
 
 <!-- Share your contact details. Preferrably these details
-Email
+Email rajkumarankit9070@gamil.com
 LinkedIn
 GitHub
 
